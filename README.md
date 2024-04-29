@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryan7878
 - 👀 I’m interested in Coding and gaming
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
